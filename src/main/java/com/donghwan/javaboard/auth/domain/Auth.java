@@ -1,4 +1,4 @@
-package com.donghwan.javaboard.auth;
+package com.donghwan.javaboard.auth.domain;
 
 public interface Auth {
 

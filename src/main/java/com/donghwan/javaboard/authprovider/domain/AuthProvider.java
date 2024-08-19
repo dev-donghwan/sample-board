@@ -1,4 +1,4 @@
-package com.donghwan.javaboard.authprovider;
+package com.donghwan.javaboard.authprovider.domain;
 
 public interface AuthProvider {
     Long getId();
